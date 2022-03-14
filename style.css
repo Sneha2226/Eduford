@@ -393,7 +393,7 @@ h3{
 .fa-heart-o{
     color: #f44336;
 }
-/* ............contect........... */
+/* ............contact........... */
 .column{
     width: 98%;
     text-align: center;
@@ -449,6 +449,12 @@ body{
       }
       .column {
         width: 100%;
+      }
+      .cta {
+          
+          font-size: 15px;
+          width: 92%;
+          margin: auto;
       }
       
   }
